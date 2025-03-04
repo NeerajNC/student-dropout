@@ -1,0 +1,24 @@
+Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., Lee, Y. T., Li, Y., Lundberg, S., Nori, H., Palangi, H., Ribeiro, M. T., & Zhang, Y. (2023). Sparks of Artificial General Intelligence: Early experiments with GPT-4. arXiv preprint arXiv:2303.12712. 
+ARXIV.ORG
+
+OpenAI. (2024). GPT-4o: Advancing Multimodal AI. OpenAI Research Blog. 
+OPENAI.COM
+
+Knight, W. (2024). OpenAI Upgrades Its Smartest AI Model With Improved Reasoning Skills. Wired.
+
+Zeff, M., & Wiggers, K. (2024). OpenAI announces new o3 models. TechCrunch.
+
+Vincent, J. (2023). OpenAI announces GPT-4—the next generation of its AI language model. The Verge.
+
+Wiggers, K. (2023). OpenAI releases GPT-4, a multimodal AI that it claims is state-of-the-art. TechCrunch.
+
+Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language Models are Unsupervised Multitask Learners. OpenAI.
+
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D., Wu, J., Winter, C., ... & Amodei, D. (2020). Language Models are Few-Shot Learners. arXiv preprint arXiv:2005.14165.
+
+OpenAI. (2024). Introducing GPT-4o mini: A Smaller, Faster Multimodal Model. OpenAI Research Blog. 
+OPENAI.COM
+
+OpenAI. (2025). Deep Research: Enhancing AI's Analytical Capabilities. OpenAI Research Blog.
+
+These sources provide a comprehensive foundation for analyzing the development and impact of OpenAI's language models over time.
